@@ -175,12 +175,6 @@ Results appear across five tabs: Data Profile → Task Classification → AutoML
 
 ---
 
-## Why not use PyCaret or a pre-built AutoML framework?
-
-PyCaret doesn't support Python 3.13. More importantly, wrapping a framework wouldn't show how the pipeline actually works — ARIA builds each stage explicitly so every decision is inspectable and explainable. The Devil's Advocate check, the voting system, and the tri-persona output are all original design decisions that sit on top of standard sklearn, not hidden inside a black-box library.
-
----
-
 ## Evaluation criteria — ABB EngineeredX 2.0
 
 | Criterion | How ARIA addresses it |
