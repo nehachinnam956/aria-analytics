@@ -185,5 +185,5 @@ Results appear across five tabs: Data Profile → Task Classification → AutoML
 ## Author
 
 **Bhagavathi Neha Chinnam**
-B.Tech Big Data & Analytics | SRM University AP | CGPA 8.86
+B.Tech Big Data & Analytics | SRM University AP 
 [github.com/nehachinnam956](https://github.com/nehachinnam956) · nehabr.2302@gmail.com
