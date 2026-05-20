@@ -19,10 +19,6 @@ Built for **ABB EngineeredX 2.0 | Problem Statement #8** — Design and Evaluate
 
 ---
 
-## Demo
-
-![ARIA Screenshot](assets/demo.png)
-
 Try it with any of these datasets:
 
 | Dataset | Task ARIA detects | Download |
